@@ -1,2 +1,2 @@
 # LinearRegression-CarMileagePrediction
-Predicting car mileage using Linear Regression
+Predicting car mileage using Linear Regression. The project involves exploratory data analysis (EDA) to understand the dataset, selecting relevant features, and building a machine learning model to predict the mileage (MPG) of cars. The model's accuracy is evaluated, and insights are derived from visualizing the relationships between features and the target variable.
